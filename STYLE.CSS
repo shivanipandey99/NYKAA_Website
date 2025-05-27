@@ -1,0 +1,29 @@
+*{
+margin: 0px;
+    padding: 0px;
+    box-sizing:border-box;
+    text-decoration: none;
+    background-color: mistyrose;
+
+}
+#navbar{
+  background: burlywood; 
+  font-family: calibri;
+  padding-right: 15px;
+  padding-left: 15px;
+  background-image: src("https://www.google.com/search?q=nykaa+front+page+img&rlz=1C5MACD_enIN1137IN1138&oq=nykaa+front+page+img&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyBggDECEYFTIHCAQQIRifBdIBCjEzOTk5ajBqMTWoAgiwAgHxBVzr7q_eznW-8QVc6-6v3s51vg&sourceid=chrome&ie=UTF-8#vhid=WRh5xaDKzilPPM&vssid=_yrW9Z_L_L_mZseMPw-S9oAc_49");
+  position: absolute;
+  align-items: center;
+  text-decoration: none;
+}
+.navdiv{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#navbar nav ul li{
+    gap:19px;
+}
+
+
+
